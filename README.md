@@ -1,4 +1,3 @@
-# Hi, I'm Ahmed 👋
  Biomedical Engineering undergrad  
  Interested in AI, Medical Technology & Software  
  Exploring Computer Vision, Python, Biomedical Engineering
