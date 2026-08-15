@@ -5,4 +5,4 @@
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,matlab,opencv,git,github,aws,c,cpp,html,css,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,matlab,opencv,git,github,aws,apple,ai,linkedin,linux,mint,,vscode&perline=6)](https://skillicons.dev)
