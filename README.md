@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.gif" width="70%">
-</p>
- 
  Biomedical Engineering undergrad  
  Interested in AI, Medical Technology & Software  
  Exploring Computer Vision, Python, Biomedical Engineering
